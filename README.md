@@ -2,7 +2,7 @@
 
 This is a simple web-based application created by me and my team-mate Piyush kumar  while working under the Microsoft Mars Colonization Program and in process developing our own path-finding algorithm visualizer.
 
-<img src="images/webview.png>
+<img src="images/webview.png">
 
 We have used simple technologies like:-
 
